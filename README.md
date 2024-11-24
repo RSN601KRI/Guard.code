@@ -66,6 +66,8 @@ The app will open in your default web browser at `http://localhost:8501`.
 2. **Generate Report**: Click on the **"Generate Report"** button, and the system will automatically create a structured threat intelligence report based on the event details.
 3. **View the Report**: The generated report will be displayed below the input field with sections like **Abstract**, **Incident Overview**, **Analysis**, **Recommendations**, and **Conclusion**.
 
+Video Link: https://vimeo.com/1032841431/95950d1a51?share=copy
+
 ## Project Structure
 
 ```
